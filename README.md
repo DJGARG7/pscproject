@@ -8,3 +8,22 @@
 
 
 <img src="https://github.com/DJGARG7/pscproject/blob/master/test.gif">
+
+### *Components of GUI*
+The GUI components have been made by making the use of tkinter module
+*base = Tk()*
+#### 1) The Base box
+It is titled 'Hello', is not resizable and has the fixed geometry 400 x 500
+*base.title(), base.geometry(), base.resizable()*
+#### 2) The Chatlog 
+It has the fixed height 8 and width 50
+*Chatlog = Text(base,...)*
+#### 3) The scrollbar
+It is used for scrolling the chatlog
+*scrollbar = Scrollbar(base,command=ChatLog.yview,...)*
+#### 4) Entry Box
+It is a text box used to take input entry from the user. The default font is set to Arial.
+*EntryBox = Text(base,.,font='Arial',.)*
+#### 5) The Send button
+It is used to submit/send the text inserted in the Entry box. On clicking on this button, the text in entry box is cleared to take new input from user.
+*SendButton = Button(base,...,command= send,...)*
