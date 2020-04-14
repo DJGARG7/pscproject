@@ -9,4 +9,3 @@
 
 
 ![](https://github.com/DJGARG7/pscproject/blob/master/chatbot_working.mp4)
-<img src="https://github.com/DJGARG7/pscproject/blob/master/Untitled.png">
