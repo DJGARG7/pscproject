@@ -1,4 +1,4 @@
-*How to run the CHATBOT*
+### *How to run the CHATBOT*
 
 1) We have used `tensorflow` in the backend so you will have to run it in python 3.6 environment (since tensorflow is not availible in python 3.7 yet).
 2) Install keras, nltk, json, pickle and tensorflow in the 3.6 environment.
@@ -7,4 +7,4 @@
 5) Now run the file named `python chatgui.py` and the chatbot will be on your screen and u can start interacting with it.
 
 
-### video of its working is attached among other files
+<img src="https://github.com/DJGARG7/pscproject/blob/master/test.gif">
