@@ -7,5 +7,4 @@
 5) Now run the file named `python chatgui.py` and the chatbot will be on your screen and u can start interacting with it.
 
 
-
-![](https://github.com/DJGARG7/pscproject/blob/master/chatbot_working.mp4)
+### video of its working is attached among other files
