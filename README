@@ -5,5 +5,3 @@
 3) Download wordnet and punkt by nltk.download('wordnet') and nltk.download('punkt')
 4) Run the file 'train_chatbot.py' to train the model from 'intents.json' to create 3 layer neural network
 5) Now run the file named 'chatgui.py' and the chatbot will be on your screen and u can start interacting with it.
-
-
